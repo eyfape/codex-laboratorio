@@ -40,6 +40,13 @@ h2 {
 .seccion-conceptos li {
   margin-bottom: 8px;
 }
+.seccion-progreso ol {
+  padding-left: 24px;
+}
+
+.seccion-progreso li {
+  margin-bottom: 8px;
+}
 
 .texto-cambiante {
   margin-top: 28px;
