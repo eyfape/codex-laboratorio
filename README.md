@@ -51,6 +51,12 @@ El botón “Cambiar texto” modifica el mensaje principal de la página.
 
 El botón “Reiniciar texto” devuelve el mensaje a su texto original.
 
+## Sitio publicado
+
+La página web del proyecto está publicada en GitHub Pages y se puede visitar en:
+
+https://eyfape.github.io/codex-laboratorio/
+
 ## Cómo abrir el proyecto
 
 Para abrir el proyecto en el navegador desde PowerShell, se puede usar:
