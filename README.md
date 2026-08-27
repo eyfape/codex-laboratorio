@@ -140,3 +140,5 @@ Algunas mejoras futuras podrían ser:
 Este proyecto representa mi primer laboratorio práctico para aprender a dirigir Codex y trabajar con herramientas reales de desarrollo.
 
 La meta no es solo que el código funcione, sino aprender a trabajar de manera ordenada, segura y profesional.
+
+Este repositorio también se usa para practicar sincronización entre Git local y GitHub.
